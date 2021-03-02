@@ -1,0 +1,9 @@
+C:\tem\M183 - V04\src\main\java\ch\m183\session\model\Role.java
+C:\tem\M183 - V04\src\main\java\ch\m183\session\model\Account.java
+C:\tem\M183 - V04\src\main\java\ch\m183\session\service\AccountService.java
+C:\tem\M183 - V04\src\main\java\ch\m183\session\SessionApplication.java
+C:\tem\M183 - V04\src\main\java\ch\m183\session\service\IAccountService.java
+C:\tem\M183 - V04\src\main\java\ch\m183\session\authentication\CustomAuthenticationProvider.java
+C:\tem\M183 - V04\src\main\java\ch\m183\session\config\MvcConfig.java
+C:\tem\M183 - V04\src\main\java\ch\m183\session\config\WebSecurityConfiguration.java
+C:\tem\M183 - V04\src\main\java\ch\m183\session\repository\AccountRepository.java

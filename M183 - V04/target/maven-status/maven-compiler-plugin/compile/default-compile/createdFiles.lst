@@ -1,0 +1,9 @@
+ch\m183\session\config\MvcConfig.class
+ch\m183\session\model\Role.class
+ch\m183\session\service\IAccountService.class
+ch\m183\session\config\WebSecurityConfiguration.class
+ch\m183\session\service\AccountService.class
+ch\m183\session\SessionApplication.class
+ch\m183\session\repository\AccountRepository.class
+ch\m183\session\authentication\CustomAuthenticationProvider.class
+ch\m183\session\model\Account.class
